@@ -8,3 +8,6 @@
 <p align="center">
 <b>Learn more at <a href="https://prowler.com">prowler.com</i></b>
 </p>
+<p align="center">
+  <img align="center" src="https://github.com/prowler-cloud/prowler/docs/img/prowler-cli-quick.gif" width="100%" height="100%">
+</p>
