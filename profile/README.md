@@ -5,17 +5,19 @@
 <p align="center">
   <b><i>Prowler</b> is is the Agentic Cloud Defender for any cloud. We help organizations continuously secure cloud infrastructure, SaaS, containers, and Infrastructure as Code across multi-cloud environments. Built on an open-source foundation, Prowler combines deterministic security checks, compliance mappings, and AI-driven investigation, prioritization, and guided remediation to reduce risk faster while keeping teams in control.
 </p>
+    <img width="1440" height="810" alt="prowler-quick-commercial-may-2026-10-75" src="https://github.com/user-attachments/assets/7ac4c5d3-5179-4e1d-a6a3-062af1873e76" />
+
 <p align="left">
   Do you need hosted Prowler with additinal features? 
 </p>
 <p align="left">  
-<b>Prowler Cloud</b>: our SaaS, Multi-tenant, Fully Managed, Ent. Support: <a href="https://cloud.prowler.com">cloud.prowler.com</a>
+- <b>Prowler Cloud</b>: our SaaS, Multi-tenant, Fully Managed, Ent. Support: <a href="https://cloud.prowler.com">cloud.prowler.com</a>
 </p>
 <p align="left">
-  <b>Prowler Cloud Enterprise</b>: Single tenant, Prowler Managed, in your VPC, in your Data Center, even air-gapped. <a href="https://prowler.com/contact">prowler.com/contact</a></b>
+- <b>Prowler Cloud Enterprise</b>: Single tenant, Prowler Managed, in your VPC, in your Data Center, even air-gapped. <a href="https://prowler.com/contact">prowler.com/contact</a></b>
 </p>
 <p align="left">
-  <b>Prowler OSS</b>: CLI, UI, Community Supported. <a href="https://github.com/prowler-cloud/prowler">here it is.</a></b>
+- <b>Prowler OSS</b>: CLI, UI, Community Supported. <a href="https://github.com/prowler-cloud/prowler">here it is.</a></b>
   </p>
 <p align="left">  
 To know more details about Prowler Products and Services go to <a href="https://prowler.com/pricing">prowler.com/pricing</i></b>
